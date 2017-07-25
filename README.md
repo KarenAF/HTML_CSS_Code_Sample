@@ -108,7 +108,10 @@
 
 ```
 ![listwithus](https://github.com/KarenAF/HTML_CSS_Code_Sample/blob/master/img/homepage.png)
-
+  
+  
+  
+       
 
 ## JobHunter
 ##### This is my capstone project. JobHunter enhances a user's job search by centralizing job listings and tracking progress. Users can pull job listings from Indeed, categorize job listings based on progress, sort listings, and keep track of networking. Tech: Ruby on Rails, Google Materialize Standards, AngularJS, JavaScript, Indeed job-search API, Google Maps API.
