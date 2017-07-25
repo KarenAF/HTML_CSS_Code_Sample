@@ -220,6 +220,54 @@
 
 
 
+**Indeed Search page**
+
+### HTML
+```
+
+<div ng-app="app">
+ <div ng-controller="jobsCtrl" ng-init="setup()">
+
+<br>
+<h5>Search Indeed within Page</h5>
+<div class="card-panel cool-border">
+  Keyword: <input ng-model="inputKeyword">
+  <br>
+  Location: <input ng-model="inputLocation">
+  <br>
+  <button class="waves-effect waves-light btn" ng-click="searchIndeed(inputKeyword, inputLocation)">LOAD RESULTS</button> 
+</div>
+
+<div ng-if="showResults" class="card-panel cool-border"> 
+  <h3>Indeed Search Results</h3>
+    <table>
+      <thead>
+        <tr>
+            <th data-field="company">Company</th>
+            <th data-field="jobtitle">Job Title</th>
+            <th data-field="location">Location</th>
+            <th data-field="info">More info </th>
+            <th data-field="save_listing">Save</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="result in searchResults"> 
+          <td> {{result.company }} </td>
+          <td> {{ result.jobtitle}} </td>
+          <td> {{ result.city }}, {{ result.state }} </td>
+          <td> <a href="{{result.url}}" target="_blank">More info</a></td>
+          <td ng-if="!result.saved"> <button ng-click="saveListing(result)">Add to your jobs</button> </td>
+          <td ng-if="result.saved"> Job Saved </td>        
+        </tr>
+      </tbody>
+    </table>
+</div>
+
+
+```
+![indeed](https://github.com/KarenAF/HTML_CSS_Code_Sample/blob/master/img/jobhunterindeed.png)
+
+
 
 
 
