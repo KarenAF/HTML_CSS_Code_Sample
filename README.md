@@ -180,7 +180,7 @@
 
 ```
 
-![index page](jobhunterindex.png)
+![index page](https://github.com/KarenAF/HTML_CSS_Code_Sample/blob/master/img/jobhunterindex.png)
 
   
   
@@ -215,7 +215,7 @@
 
 
 ```
-![spreadsheet page](jobhunterspreadsheet.png)
+![spreadsheet page](https://github.com/KarenAF/HTML_CSS_Code_Sample/blob/master/img/jobhunterspreadsheet.png)
 
 
 
