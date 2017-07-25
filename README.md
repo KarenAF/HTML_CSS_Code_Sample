@@ -110,7 +110,7 @@
 ![listwithus](https://github.com/KarenAF/HTML_CSS_Code_Sample/blob/master/img/homepage.png)
 
 
-##JobHunter
+## JobHunter
 ##### This is my capstone project. JobHunter enhances a user's job search by centralizing job listings and tracking progress. Users can pull job listings from Indeed, categorize job listings based on progress, sort listings, and keep track of networking. Tech: Ruby on Rails, Google Materialize Standards, AngularJS, JavaScript, Indeed job-search API, Google Maps API.
 ##### I've put the CSS and html together in one html page. Click [here](https://github.com/KarenAF/HTML_CSS_Code_Sample/blob/master/full_samples/jobhunter/homepage.html)  for the full sample for the index page. Click [here](https://github.com/KarenAF/HTML_CSS_Code_Sample/blob/master/full_samples/jobhunter/spreadsheet.html) for the full sample of the spreadsheet page.
 
@@ -120,7 +120,7 @@
       
 **Index Page**
 
-###CSS:
+### CSS:
 ```
     .tiger {
       width: 120px;
@@ -155,7 +155,7 @@
 ```
 
 
-###HTML:
+### HTML:
 ```
 <div class="row card-panel yellow round-card">
 <h5>Jobs I am applying to: </h5>
