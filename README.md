@@ -5,8 +5,9 @@
 ##### Each webpage of our client's app depended on various files from a Ruby on Rails app, so for the full sample, I've pasted code from the HTML, CSS, and Javascript in one place. When extracted and pasted together like this from the Rails app, it isn't fully usable, interactive, or representative of the original UI, but it does give an idea of what it looked like. I've compiled a preview of the HTML and CSS components below. Please refer [here](https://github.com/KarenAF/HTML_CSS_Code_Sample/blob/master/full_samples/TDE/ListWithUs.html) to see the full sample for the 'list with us' page and [here](https://github.com/KarenAF/HTML_CSS_Code_Sample/blob/master/full_samples/TDE/homepage.html) for the full sample for the homepage, with the client name redacted.
 ##### About the development process at The Difference Engine: We worked in teams of about 5-7 developers, each working with a specific client to build their website or app. Most teams used a combination of the following technologies, but not limited to: Ruby on Rails, PostgreSQL (or another database), JavaScript on AngularJS, various API's, JSON, Bootstrap, Materialize, Email API's, Google Maps, Twilio, Action Cable, etc. We worked in two to four week Agile sprints and met with our clients once or twice a month. We used Slack for communication, GitHub for version control, and Heroku for deployment. 
     
-<br>
-<br>
+  
+  
+   
 **'List With Us' Page**
 ### CSS:
 ```
@@ -73,8 +74,9 @@
 ```
 ![listwithus](https://github.com/KarenAF/HTML_CSS_Code_Sample/blob/master/img/ListWithUs.png)
 
-<br>
-<br>
+  
+  
+   
 **Homepage**
 ### HTML:
 ```
@@ -112,8 +114,10 @@
 ##### This is my capstone project. JobHunter enhances a user's job search by centralizing job listings and tracking progress. Users can pull job listings from Indeed, categorize job listings based on progress, sort listings, and keep track of networking. Tech: Ruby on Rails, Google Materialize Standards, AngularJS, JavaScript, Indeed job-search API, Google Maps API.
 ##### I've put the CSS and html together in one html page. Click [here]()  for the full sample for the index page. Click [here]() for the full sample of the spreadsheet page.
 
-<br>
-<br>
+  
+  
+    
+      
 **Index Page**
 
 ###CSS:
@@ -177,9 +181,9 @@
 ```
 
 
-<br>
-<br>
-<br>
+  
+  
+   
 **Spreadsheet Page**
 
 ### HTML
