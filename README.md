@@ -8,7 +8,7 @@
   
   
    
-**'List With Us' Page**
+<mark>**'List With Us' Page**
 ### CSS:
 ```
 .list-content {
@@ -77,7 +77,7 @@
   
   
    
-**Homepage**
+<mark>**Homepage**
 ### HTML:
 ```
         <%= link_to image_tag('/images/mansion.svg', 
@@ -118,7 +118,7 @@
   
     
       
-**Index Page**
+<mark>**Index Page**
 
 ### CSS:
 ```
@@ -185,7 +185,7 @@
   
   
    
-**Spreadsheet Page**
+<mark>**Spreadsheet Page**
 
 ### HTML
 ```
@@ -220,7 +220,7 @@
 
 
 
-**Indeed Search page**
+<mark>**Indeed Search page**
 
 ### HTML
 ```
