@@ -30,7 +30,16 @@ About the development process at The Difference Engine: We worked in teams of ab
 
 <div class="list-content">
   <h3>Intro</h3>
-  <p>Donec egestas justo id pellentesque venenatis. Etiam dapibus diam arcu, sit amet posuere ex venenatis in. Phasellus dignissim nulla nec consectetur tempor. Quisque venenatis, nulla at bibendum porttitor, turpis justo sodales neque, eget placerat justo purus congue massa. Praesent lobortis tristique est ut euismod. Nulla aliquam varius urna quis posuere. Integer commodo ex nulla, a accumsan nibh dapibus mattis. Aliquam et sodales ante.</p>
+  <p>Donec egestas justo id pellentesque venenatis. 
+  Etiam dapibus diam arcu, sit amet posuere ex venenatis in. 
+  Phasellus dignissim nulla nec consectetur tempor. 
+  Quisque venenatis, nulla at bibendum porttitor, 
+  turpis justo sodales neque, 
+  eget placerat justo purus congue massa. 
+  Praesent lobortis tristique est ut euismod. 
+  Nulla aliquam varius urna quis posuere. 
+  Integer commodo ex nulla, a accumsan nibh dapibus mattis. 
+  Aliquam et sodales ante.</p>
 </div>
 
 
@@ -66,7 +75,8 @@ About the development process at The Difference Engine: We worked in teams of ab
 **Homepage**
 ### HTML:
 ```
-        <%= link_to image_tag('/images/mansion.svg', :class => 'navbar-brand'), "/homepages" %>
+        <%= link_to image_tag('/images/mansion.svg', 
+        :class => 'navbar-brand'), "/homepages" %>
 
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" 
        
@@ -82,7 +92,8 @@ About the development process at The Difference Engine: We worked in teams of ab
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav">
-          <li class="active"><a href="/properties/">Find Your Home<span class="sr-only">(current)</span></a></li>
+          <li class="active"><a href="/properties/">Find Your Home
+          <span class="sr-only">(current)</span></a></li>
           <li><a href="/listwithus">List With Us</a></li>
           <li><a href="#">Company</a></li>
           <li><a href="/charities/">Charities</a></li>
