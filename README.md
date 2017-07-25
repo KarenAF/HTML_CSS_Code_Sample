@@ -112,7 +112,7 @@
 
 ## JobHunter
 ##### This is my capstone project. JobHunter enhances a user's job search by centralizing job listings and tracking progress. Users can pull job listings from Indeed, categorize job listings based on progress, sort listings, and keep track of networking. Tech: Ruby on Rails, Google Materialize Standards, AngularJS, JavaScript, Indeed job-search API, Google Maps API.
-##### I've put the CSS and html together in one html page. Click [here](https://github.com/KarenAF/HTML_CSS_Code_Sample/blob/master/full_samples/jobhunter/homepage.html)  for the full sample for the index page. Click [here](https://github.com/KarenAF/HTML_CSS_Code_Sample/blob/master/full_samples/jobhunter/spreadsheet.html) for the full sample of the spreadsheet page.
+##### Click [here](https://github.com/KarenAF/HTML_CSS_Code_Sample/blob/master/full_samples/jobhunter/homepage.html)  for the full sample of the index page. For the index page, I pasted the CSS into the html style tags (In the original code, they are separated). Click [here](https://github.com/KarenAF/HTML_CSS_Code_Sample/blob/master/full_samples/jobhunter/spreadsheet.html) for the full HTML sample of the spreadsheet page. The full HTML sample for the Indeed Search page is below.
 
   
   
