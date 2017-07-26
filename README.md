@@ -188,7 +188,7 @@
   
   
    
-**==Spreadsheet Page==**
+==Spreadsheet Page==
 
 ### HTML
 ```
